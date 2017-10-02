@@ -1,6 +1,6 @@
 # Esplora-Servo-Joystick-Control
 
-This program moves two servo's acording to the joystick's X and Y position
+This program moves two servos acording to the joystick's X and Y position
 
 I found the pin readouts on this [website](http://www.pighixxx.com/test/portfolio-items/esplora/?portfolioID=314#prettyPhoto)
 
@@ -14,7 +14,7 @@ Libraries [Esplora](https://www.arduino.cc/en/Reference/EsploraLibrary) and [Ser
 
 # FAQ
 
-1."Can I use this program for my own program?" 
+1."Can I use this program as a part of my own program?" 
 
 Yes, you can.
 
