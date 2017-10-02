@@ -10,7 +10,7 @@ The program reads the Esplora's joystick X and Y read outs through a 9600 baud s
 
 # What Do I Need?
 
-Libraries [Esplora](https://www.arduino.cc/en/Reference/EsploraLibrary) and [Servo](https://www.arduino.cc/en/Reference/Servo)which can be downloaded through the [Arduino IDE](https://www.arduino.cc/en/Main/Software).
+Libraries [Esplora](https://www.arduino.cc/en/Reference/EsploraLibrary) and [Servo](https://www.arduino.cc/en/Reference/Servo) which can be downloaded through the [Arduino IDE](https://www.arduino.cc/en/Main/Software).
 
 # FAQ
 
