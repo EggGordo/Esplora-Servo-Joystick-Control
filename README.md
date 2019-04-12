@@ -2,7 +2,7 @@
 
 This program moves two servos acording to the joystick's X and Y position
 
-I found the pin readouts on this [website](http://www.pighixxx.com/test/portfolio-items/esplora/?portfolioID=314#prettyPhoto)
+I found the pin readouts on this website (link removed, will replace later)
 
 # How Does It Work?
 
